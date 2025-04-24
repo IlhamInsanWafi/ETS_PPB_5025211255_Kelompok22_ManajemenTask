@@ -1,31 +1,9 @@
-# Android To Do List App
-This repository contains the To Do List application. This app allows you to create task lists that can be tracked individually.
-
-The technologies used in this application are:
-
-<pre>
-🏗 MVVM
-<br>🚨 Dagger-Hilt
-<br>🗃 Room and SQLite
-<br>🕓 Coroutines
-<br>🚀 LiveData
-<br>🎨 DataBinding and ViewBinding
-<br>📲 Navigation Component
-<br>🎴 RecyclerView
-<br>🔎 SearchView
-</pre>
+# ETS PPB Task Management
+- ILHAM INSAN WAFI 5025211255
 
 ## Screenshots
 
 <table>
-  <thead>
-    <tr>
-      <th>SplashScreenFragment</th>
-      <th>HomePageFragment</th>
-      <th>AddTaskFragment</th>
-      <th>TaskDetailFragment</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/tariksafakutuk/Android-To-Do-List-App/assets/58528205/ff238883-d375-40e5-9724-f53a9e9cbc50" alt="" style="width:180px;"/></td>
@@ -36,13 +14,6 @@ The technologies used in this application are:
   </tbody>
 </table>
 
-## Screen Recording
+## Link Blogspot
 
-https://github.com/tariksafakutuk/Android-To-Do-List-App/assets/58528205/f88401bf-4a7d-4f50-9782-c563d06ae309
-
-## Author
-***Tarik Safa Kutuk***
-
-[GitHub](https://github.com/tariksafakutuk/) | [LinkedIn](https://www.linkedin.com/in/tariksafakutuk/)
-
-**"If found helpful please press a ⭐."**
+## Link Youtube
